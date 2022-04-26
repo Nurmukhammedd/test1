@@ -21,3 +21,10 @@
 # git pull - Это команда которая используется для загрузки изменений (обновлений) из удвленного репозитория 
 
 # git pull <branch name>
+
+# Создание репрозитория 
+# git init 
+# git add .
+# git commit -m ''
+# git remote add origin <ssh>
+# git push origin <branch name>
